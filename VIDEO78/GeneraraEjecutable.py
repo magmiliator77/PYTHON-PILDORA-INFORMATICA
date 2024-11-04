@@ -1,0 +1,1 @@
+#GENERADO EN LA RUTA --> C:\Users\magma\Movistar Cloud\PYTHON-PILDORA-INFORMATICA\VIDEO47\dist
